@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pranay Harwani</h1>
-<h3 align="center">🧠 Product Manager &nbsp;·&nbsp; 🚀 Aspiring APM &nbsp;·&nbsp; ✨ Vibe Coder</h3>
+<h3 align="center">🚀 Aspiring AI PM &nbsp;·&nbsp; ✨ Vibe Coder</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=pranay071002&label=Profile%20views&color=0e75b6&style=flat" alt="pranay071002" />
+<img src="https://img.shields.io/badge/ICICI%20Bank-Technical%20PM-004c8f?style=flat" />
 <img src="https://img.shields.io/badge/Unify%20Apps-Product%20Manager-blueviolet?style=flat" />
 <img src="https://img.shields.io/badge/IIT%20Kharagpur-Alumnus-orange?style=flat" />
 </p>
